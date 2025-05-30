@@ -1,4 +1,3 @@
-```java
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
@@ -179,5 +178,4 @@ public class Grupo_3 {
         System.out.println("Números ordenados: " + Arrays.toString(nums));
     }
 }
-```
 
